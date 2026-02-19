@@ -40,11 +40,19 @@ A complete image enhancement and segmentation pipeline built using Python and Op
 
 
 
-\## 📊 Output
+\## 📊 Output Visualization
 
 
 
-!\[Results](results.png)
+### Segmentation Pipeline Result
+
+![Segmentation Result](results.png)
+
+---
+
+### Console Execution Report
+
+![Console Output](Console_output.png)
 
 
 
@@ -57,6 +65,7 @@ A complete image enhancement and segmentation pipeline built using Python and Op
 pip install -r requirements.txt
 
 python main.py
+
 
 
 
